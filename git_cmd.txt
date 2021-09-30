@@ -1,0 +1,4 @@
+git init ---intialise
+git add . --- staged
+git commit -m "MSG"---- commited
+git push -u ---- upload
