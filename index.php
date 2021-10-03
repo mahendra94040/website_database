@@ -10,9 +10,9 @@
 <body>
 	<h1>What is your Name?</h1>
 	<form action="insert.php" method="post" enctype="multipart/form-data">
-		<input type="text" name="fname" id="name">
+		<input type="text" name="fname">
 		<hr>
-		<input type="file" name="image" id="fileToUpload">
+		<input type="file" name="image">
 		<hr>
 		<input type="submit" value="Button" name="submit">
 	</form>
